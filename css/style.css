@@ -43,7 +43,7 @@ a {
 
 .cards {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   margin-bottom: 30px;
   flex-wrap: wrap;
 }
